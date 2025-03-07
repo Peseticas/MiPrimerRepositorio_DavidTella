@@ -43,5 +43,17 @@ a un archivo.
 12.El comando: cat
 Se usa para ver el contenido del archivo.
 
-13- El comando: nano
+13.El comando: nano
 Sirve para abrir un editor de texto en terminal.
+
+
+---COMANDOS Y EXPLICACIÓN PARA ACTUALIZAR EL REPOSITORIO LOCAL---
+1. El comando: git pull origin main
+Sirve para actualizar nuestro repositorio local con los cambios de GitHub.
+
+2.El comando cat README.md
+Imprime por la terminal el mensaje que antes hemos escrito desde GitHub.
+
+Explicación:
+Descargamos los cambios de GitHub con git pull origin main, despues de esto se abre el editor de texto elegido en mi caso fue Visual Studio Code y hay que cerrarlo para que se haga la descarga.Despues verifico el contenido del archivo modificado README.md
+
